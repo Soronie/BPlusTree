@@ -1,4 +1,4 @@
-A program that emulates insertion of values into a B+ Tree.
+A program that emulates the insertion of values into a B+ Tree.
 
 To run the program, type the following commands on the command line:
 
